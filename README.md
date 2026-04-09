@@ -4,7 +4,7 @@ Reusable Laravel authentication package extracted from the SAMS backend.
 
 ## Author
 
-- `SAMS Development Team`
+- `Ade Owolabi - adego247@gmail.com`
 
 ## Current scope
 
